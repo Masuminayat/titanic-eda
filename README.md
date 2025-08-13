@@ -29,9 +29,6 @@ The analysis was conducted in Python using **Pandas**, **Matplotlib**, and **Sea
 - Correlation heatmap for numeric and engineered features.
 ---
 
-## 📜 License
-This project is provided for **educational purposes**. Dataset belongs to Kaggle, and usage is subject to their [terms of service](https://www.kaggle.com/terms).
-
 ---
 
 ## ✨ Author
